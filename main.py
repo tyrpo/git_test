@@ -1,6 +1,8 @@
 
+def main():
+    print('My first git program')
+    print('And I change it every day')
 
-def print_hi(name):
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
-    print_hi('PyCharm')
+if __name__ == '__main__':
+    main()
